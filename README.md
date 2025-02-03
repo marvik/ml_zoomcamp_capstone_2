@@ -84,7 +84,7 @@ This project uses `pipenv` for dependency and environment management. To set up 
 
 ## 5. Exploratory Data Analysis (EDA)
 
-The [Exploratory Data Analysis (EDA)](capstone_2_airbnb_price_prediction.ipynb) section of the notebook provides insights into the dataset. Key findings include:
+The Exploratory Data Analysis (EDA) section of the notebook provides insights into the dataset. Key findings include:
 
 *   **Data Overview:** The dataset has 48,895 rows and 16 columns before cleaning and preprocessing.
 *   **Missing Values:** The `name` and `host_name` columns have a small number of missing values, while `last_review` and `reviews_per_month` have a significant number of missing entries.
@@ -95,7 +95,7 @@ The [Exploratory Data Analysis (EDA)](capstone_2_airbnb_price_prediction.ipynb) 
 
 ## 6. Data Preparation
 
-In the [Data Preparation](capstone_2_airbnb_price_prediction.ipynb) section of the notebook:
+In the Data Preparation section of the notebook:
 
 *   Unnecessary columns (`id`, `name`, `host_id`, `host_name`, `last_review`) are dropped.
 *   `price` outliers are removed based on quantiles (1% and 99%).
