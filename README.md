@@ -52,11 +52,11 @@ This project uses `pipenv` for dependency and environment management. To set up 
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your_repository_url>
-    cd <repository_name>
+    git clone https://github.com/marvik/ml_zoomcamp_capstone_2.git
+    cd ml_zoomcamp_capstone_2
     ```
 
-    (Replace `<your_repository_url>` and `<repository_name>` with your project's URL and name.)
+
 
 2.  **Install `pipenv`:**
 
