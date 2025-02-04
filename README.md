@@ -206,7 +206,7 @@ After successful deployment, Cloud Run will provide a service URL. The deployed 
 
 The deployed service is accessible at the following URL, use `predict_sample_google_cloud.py` in repository:
 
-[https://online-shopper-prediction-558797510368.us-central1.run.app/predict](https://online-shopper-prediction-558797510368.us-central1.run.app/predict)
+https://airbnb-price-predictor-558797510368.us-central1.run.app/predict
 
 You can find screenshots of working service in repository(Cloud_run_1.png, Cloud_run_2.png)
 
